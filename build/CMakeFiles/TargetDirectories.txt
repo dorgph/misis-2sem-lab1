@@ -1,0 +1,4 @@
+/mnt/c/Users/Дарья/Desktop/misis-proga-2sem/misis-2sem-lab1/build/CMakeFiles/utils.dir
+/mnt/c/Users/Дарья/Desktop/misis-proga-2sem/misis-2sem-lab1/build/CMakeFiles/main.dir
+/mnt/c/Users/Дарья/Desktop/misis-proga-2sem/misis-2sem-lab1/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Дарья/Desktop/misis-proga-2sem/misis-2sem-lab1/build/CMakeFiles/rebuild_cache.dir
